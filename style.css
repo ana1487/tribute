@@ -1,0 +1,93 @@
+.container {
+    width: 99%;
+    margin-top: 25px;
+    background: lightgrey;
+    height: 200%;
+    margin-left: 15px;
+    border-radius: 10px;
+}
+
+.container-items {
+    display: block;
+    width: 300px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#heading {
+    padding-top: 50px;
+    font-size: 32px;
+
+}
+
+#parag {
+    padding-top: 15px;
+    padding-left: 45px;
+    font-size: 16px;
+
+}
+
+.image-container {
+    display: block;
+    width: 1200px;
+    background: white;
+    height: 120%;
+    margin: 0px auto;
+}
+
+.image-property {
+    width: 88%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 70px;
+    padding-right: 40px;
+    height: 90%;
+
+
+}
+
+#parag-img {
+    font-size: 18px;
+    width: 100%;
+    margin-left: 85px;
+    margin-top: 5px;
+    padding-bottom: 20px;
+}
+
+.paracol {
+    width: 50%;
+    display: block;
+    display: block;
+    margin: 10px auto;
+
+}
+
+.timeline {
+    width: 35%;
+    display: block;
+    margin: 60px auto 40px auto;
+    padding-left: 55px;
+}
+
+li {
+    padding: 10px 7px;
+    font-size: medium;
+    outline-width: 3px;
+    font-weight: 450;
+}
+
+.just {
+    margin-left: 30px;
+    width: 88%;
+}
+
+.wiki {
+    width: 88%;
+    margin: 50px auto;
+    display: block;
+    padding-left: 200px;
+    padding-bottom: 20px;
+    font-size: 18px;
+    /* margin-left: 55px; */
+
+}
